@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>489773301323-pqes17go953rdq678m5qgr54v1fverhb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.489773301323-pqes17go953rdq678m5qgr54v1fverhb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDGpqZvAxyFOcrj532Op-YMNVx1GvVobhc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>489773301323</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.unibeethree</string>
+	<key>PROJECT_ID</key>
+	<string>unibeethree</string>
+	<key>STORAGE_BUCKET</key>
+	<string>unibeethree.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:489773301323:ios:8e18493a0ab778951897ce</string>
+</dict>
+</plist>

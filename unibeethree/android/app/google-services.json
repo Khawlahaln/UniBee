@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489773301323",
+    "project_id": "unibeethree",
+    "storage_bucket": "unibeethree.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489773301323:android:efc862b49983217d1897ce",
+        "android_client_info": {
+          "package_name": "com.example.unibeethree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489773301323-ttqv6jfb8vt0fvh7css4rfcoajjgbvl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL-kNCm4dBZ-6hcgz5CUji1boBbhIqtNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489773301323-ttqv6jfb8vt0fvh7css4rfcoajjgbvl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
